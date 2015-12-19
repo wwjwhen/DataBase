@@ -1,0 +1,13 @@
+F:\Compiler\DataBaseLogistic\DataBaseLogistic\bin\Debug\DataBaseLogistic.exe.config
+F:\DataBaseLogistic\DataBaseLogistic\bin\Debug\DataBaseLogistic.exe.config
+F:\DataBaseLogistic\DataBaseLogistic\bin\Debug\DataBaseLogistic.exe
+F:\DataBaseLogistic\DataBaseLogistic\bin\Debug\DataBaseLogistic.pdb
+F:\DataBaseLogistic\DataBaseLogistic\bin\Debug\MetroFramework.dll
+F:\DataBaseLogistic\DataBaseLogistic\obj\Debug\DataBaseLogistic.csprojResolveAssemblyReference.cache
+F:\DataBaseLogistic\DataBaseLogistic\obj\Debug\DataBaseLogistic.Login.resources
+F:\DataBaseLogistic\DataBaseLogistic\obj\Debug\DataBaseLogistic.Properties.Resources.resources
+F:\DataBaseLogistic\DataBaseLogistic\obj\Debug\DataBaseLogistic.csproj.GenerateResource.Cache
+F:\DataBaseLogistic\DataBaseLogistic\obj\Debug\DataBaseLogistic.exe
+F:\DataBaseLogistic\DataBaseLogistic\obj\Debug\DataBaseLogistic.pdb
+F:\DataBaseLogistic\DataBaseLogistic\obj\Debug\DataBaseLogistic.Register.resources
+F:\DataBaseLogistic\DataBaseLogistic\obj\Debug\DataBaseLogistic.User.resources
